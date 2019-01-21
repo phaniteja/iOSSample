@@ -2,9 +2,6 @@
 //  ViewController.swift
 //  test
 //
-//  Created by jenkins on 5/13/17.
-//  Copyright © 2017 jenkins. All rights reserved.
-//
 
 import UIKit
 
